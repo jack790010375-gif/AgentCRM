@@ -1,0 +1,24 @@
+# Web 框架
+fastapi
+uvicorn
+streamlit
+
+# LangChain 生态
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+
+# RAG
+chromadb
+sentence-transformers
+
+# 数据校验与数据库
+pydantic
+python-dotenv
+
+# 测试
+pytest

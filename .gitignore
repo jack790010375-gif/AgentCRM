@@ -1,0 +1,22 @@
+# 环境配置（含API密钥）
+.env
+
+# 数据库文件
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/vector_store/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+.DS_Store
